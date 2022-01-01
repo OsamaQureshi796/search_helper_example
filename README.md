@@ -45,7 +45,7 @@ In _pubspec.yaml_
 
 ```
 dependencies:
-    search_helper: ^0.0.6
+    search_helper: ^0.0.7
 ```
 
 ### Code Example of 1st and 2nd method as they're same:
